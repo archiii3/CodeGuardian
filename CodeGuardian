@@ -10,7 +10,8 @@ CodeGuardian is a lightweight Python tool that automatically scans projects for 
 * Generate detailed HTML and JSON reports
 * Fast recursive directory scanning
 * Cross-platform support (Windows, Linux, macOS)
-
+* Scan for insecure coding patterns
+* Generate detailed HTML and JSON reports
 ## Installation
 
 ```bash
